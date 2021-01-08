@@ -1,6 +1,16 @@
 # DataStructures
 
-c++ code of some data structures that I learnt about. More will be added as I keep learning more.
+Following are the few data structures implemeted in c++. 
+
+1. Singly Linked List (with and without tail pointer)
+2. Doubly Linked List
+3. Stacks and Queues using Double linked lists
+4. Binary Search Tree
+5. AVL Tree (self-balancing BST)
+6. Heap/Priority Queue (Using the implicit binary tree representation of array)
+7. Sorting algorithms (Quick, Merge, Heap, Bubble, Selection)
+
+More will be added as I keep learning more.
 
 # References
 
