@@ -16,7 +16,6 @@ Compile the programs using
 
 ```
 g++ program_name.cpp -std=c++11
-
 ```
 
 # References
