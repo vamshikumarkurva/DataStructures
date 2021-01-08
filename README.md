@@ -12,6 +12,13 @@ Following are the few data structures implemeted in c++.
 
 More will be added as I keep learning more.
 
+Compile the programs using
+
+```
+g++ program_name.cpp -std=c++11
+
+```
+
 # References
 
 1. [Data structures on Coursera](https://www.coursera.org/learn/data-structures)
